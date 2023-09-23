@@ -129,3 +129,6 @@ dmypy.json
 
 # TW-Alfred
 data/json_2.1.1*
+
+#data-download
+scripts/alworld_data_storage

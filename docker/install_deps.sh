@@ -37,7 +37,6 @@ DEBIAN_FRONTEND=noninteractive apt install --no-install-recommends \
   git \
   wget \
   pciutils \
-  module-init-tools \
   xserver-xorg \
   xserver-xorg-video-fbdev \
   xauth
